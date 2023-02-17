@@ -2,9 +2,7 @@ function Contact(){
     return (
         <div>
             <p>
-                Megan Hatfield
-                megan101480@gmail.com
-                828-290-7632
+              Contact Form
             </p>
         </div>
     )
