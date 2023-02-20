@@ -1,8 +1,8 @@
 function About(){
     return (
         <div>
+            <img src={require("../MeganHatfield.jpg")} alt="Megan Hatfield" ></img>
             <h2>Hello</h2>
-            
             <p>
                 My name is Megan Stanton. I have worked as a mental health therapist for many years. Most recently,
                 working in private practice. Prior to being a therapist, I worked as an office manager for a
