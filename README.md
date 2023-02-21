@@ -1,12 +1,12 @@
-#Megans Portfolio
+# Megans Portfolio
 
-##Description
+## Description
 This is a portfolio of my work. It is a work in progress. I will be adding to it as I learn more about web development. This portfolio was created with React and is hosted on GitHub Pages.
 
-##Installation
+## Installation
 To install this project, clone the repository and run `npm install`  and 'npx create-react-app'  in the root directory.
 
-##Usage
+## Usage
 To run this project, run `npm start` in the root directory. 
 Screen shot of portfolio:
 ![image](https://user-images.githubusercontent.com/110183347/220214471-6befb09e-70da-4b5f-bd82-c6b067254ce6.png)
@@ -15,7 +15,7 @@ Github Link: https://github.com/mdh1080/megans-portfolio
 
 Deployed Link: https://mdh1080.github.io/megans-portfolio/
 
-##License
+## License
 MIT License
 
 Copyright (c) 2023 Megan Stanton
