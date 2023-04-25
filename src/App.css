@@ -10,7 +10,10 @@ header {
   padding-left: 5%;
   background-color: rgb(69, 82, 252);
   background-image: repeating-linear-gradient(180deg, rgba(255, 253, 253, 0.1), rgba(255,255,255, 0.1) 5px, transparent 0px, transparent 20px);
+}
 
+.space {
+  padding-top: 2.5%;
 }
 
 h2 {
@@ -90,4 +93,5 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+  text-align: left;
 }

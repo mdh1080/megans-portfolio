@@ -6,12 +6,12 @@ function Contact(){
             </h2>
 <div className="container">
   <form action="/action_page.php">
-    <label htmlFor="fname">First Name</label>
+    <label htmlFor="fname">Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name.." />
-    <label htmlFor="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
     <label htmlFor="country">Email</label>
-    <input type="text" id="lname" email="lastname" placeholder="Your email address.." />
+    <input type="text" id="lname" email="email" placeholder="Your email address.." />
+    <label htmlFor="message">Message</label>
+    <textarea id="subject" name="subject" placeholder="Message.." defaultValue={""} />
     <input type="submit" defaultValue="Submit" />
   </form>
 </div>
