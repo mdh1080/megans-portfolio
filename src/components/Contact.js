@@ -1,11 +1,14 @@
 function Contact(){
     return (
-        <div>
-            <h2>
-              Contact Form
-            </h2>
-<div className="container">
-  <form action="/action_page.php">
+       
+<div className="contact">
+  
+  <p>Phone: 828-767-4082</p>
+  <p>Email: megan101480@gmail.com</p>
+  <p>GitHub: </p>
+  <p>LinkedIn: </p>
+  <p>Resume: </p>
+  {/* <form action="/action_page.php">
     <label htmlFor="fname">Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name.." />
     <label htmlFor="country">Email</label>
@@ -13,10 +16,9 @@ function Contact(){
     <label htmlFor="message">Message</label>
     <textarea id="subject" name="subject" placeholder="Message.." defaultValue={""} />
     <input type="submit" defaultValue="Submit" />
-  </form>
+  </form> */}
 </div>
 
-        </div>
     )
 }
 

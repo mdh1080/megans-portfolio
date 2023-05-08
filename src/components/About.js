@@ -6,7 +6,7 @@ function About(){
             </div>
             <h2>Hello</h2>
             <p>
-                My name is Megan Hatfield. My background is in mental health counseling and office management. I am new to the IT field, but believe my ability to problem solve, think abstractly, and work collaboratively are a few of the skills that will help me to be an effective web developer. I completed a 6 month full-stack coding bootcamp in March 2023. Some of the projects I created both independently and with a group are below.  
+                I'm a recent graduate of the full-stack coding bootcamp at UNCA. I'm eager to get started in a new career field so I can start using all the skills I acquired. My background is in mental health counseling and office management. My 20+ years of professional work experience have helped me to aquire the skills needed to be an effective web developer. Abstract thinking, attention to detail, and adaptability are a few of the qualities that will make me an effective web developer. My personable nature gives me the ability to work collaboratively and manage others. Some of the projects I created both independently and with a group are below.  
             </p>
         </div>
     )
