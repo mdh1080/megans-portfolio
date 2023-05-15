@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/megans-portfolio/static/css/main.0bab23f1.css",
-    "main.js": "/megans-portfolio/static/js/main.b8889fab.js",
+    "main.css": "/megans-portfolio/static/css/main.29502869.css",
+    "main.js": "/megans-portfolio/static/js/main.63bd355f.js",
     "static/js/787.12386de1.chunk.js": "/megans-portfolio/static/js/787.12386de1.chunk.js",
     "static/media/honeybees.png": "/megans-portfolio/static/media/honeybees.74394dfc88665056b0f3.png",
+    "static/media/petproject.png": "/megans-portfolio/static/media/petproject.7237e015e3781ce43dd5.png",
     "static/media/weatherDashboard.png": "/megans-portfolio/static/media/weatherDashboard.c5b840d0c05f8867a864.png",
     "static/media/PWA.png": "/megans-portfolio/static/media/PWA.1a77b8239b1fca69fd7b.png",
+    "static/media/MVCBlog.png": "/megans-portfolio/static/media/MVCBlog.d714d1c51db1efb155d0.png",
     "static/media/MeganHatfield.jpg": "/megans-portfolio/static/media/MeganHatfield.78443c951c0a6d5c0b90.jpg",
     "index.html": "/megans-portfolio/index.html",
-    "main.0bab23f1.css.map": "/megans-portfolio/static/css/main.0bab23f1.css.map",
-    "main.b8889fab.js.map": "/megans-portfolio/static/js/main.b8889fab.js.map",
+    "main.29502869.css.map": "/megans-portfolio/static/css/main.29502869.css.map",
+    "main.63bd355f.js.map": "/megans-portfolio/static/js/main.63bd355f.js.map",
     "787.12386de1.chunk.js.map": "/megans-portfolio/static/js/787.12386de1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bab23f1.css",
-    "static/js/main.b8889fab.js"
+    "static/css/main.29502869.css",
+    "static/js/main.63bd355f.js"
   ]
 }
