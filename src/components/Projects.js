@@ -13,6 +13,12 @@ function Projects(){
             <a href="https://mdh1080.github.io/Weather-Dashboard/">
             <img src={require("./weatherDashboard.png")}  alt="Megan Hatfield" width="350px" height="250px"></img>
             </a>
+            <a href="https://pet-project-march-23.herokuapp.com/">
+            <img src={require("./petproject.png")}  alt="Megan Hatfield" width="350px" height="250px"></img>
+            </a>
+            <a href="https://megans-mvc-tech-blog.herokuapp.com/">
+            <img src={require("./MVCBlog.png")}  alt="Megan Hatfield" width="350px" height="250px"></img>
+            </a>
         </div>
     )
 }

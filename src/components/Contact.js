@@ -5,8 +5,8 @@ function Contact(){
   
   <p>Phone: 828-767-4082</p>
   <p>Email: megan101480@gmail.com</p>
-  <p>GitHub: </p>
-  <p>LinkedIn: </p>
+  <p>GitHub: https://github.com/mdh1080 </p>
+  <p>LinkedIn: https://www.linkedin.com/in/megan-hatfield-2b8751274 </p>
   <p>Resume: </p>
   {/* <form action="/action_page.php">
     <label htmlFor="fname">Name</label>
